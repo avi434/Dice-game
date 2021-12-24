@@ -179,6 +179,11 @@ main {
   main{
     height: 500px;
   }
+  .dice{
+    margin-top:130px;
+    width:100px;
+    height:100px;
+  }
   .btn--hold{
     margin-top: 220px;
   }
