@@ -49,7 +49,7 @@ function held(){
 	if(play){
 	scores[active]+=currentScore;
 	document.getElementById(`score--${active}`).textContent=scores[active];
-	if(scores[active]>=20){
+	if(scores[active]>=100){
 		dice.classList.add('hidden');
 		play=false;
 		document.querySelector(`.player--${active}`).classList.add('player--winner');
