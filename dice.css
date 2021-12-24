@@ -5,10 +5,6 @@
   padding: 0;
   box-sizing: inherit;
 }
-.iconbar{
-  width: 3px;
-  height: 3px;
-}
 
 html {
   font-size: 62.5%;
@@ -189,8 +185,7 @@ main {
   .btn--roll{
     margin-top: 200px;
   }
- .player--0.current{
-  margin-left: 10px;
- }
+ 
 
 }
+  
